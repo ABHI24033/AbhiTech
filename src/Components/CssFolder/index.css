@@ -1,0 +1,74 @@
+*{
+    margin: 0%;padding: 0%;box-sizing: border-box;
+}
+body{
+    background-color: cadetblue;
+}
+
+.Style{
+    font-size: 40px;
+    font-weight: 900;
+    font-display: flex;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 4px;
+    margin-top: 3%;
+    text-decoration: dashed;
+    font-family: 'Lobster', cursive;
+    /*font-family: 'Oleo Script Swash Caps', cursive;*/
+    /*font-family: 'Prompt', sans-serif;*/
+}
+.img{
+    display: flex;
+    /*align-items: center;*/
+    justify-content: center;
+    margin-top: 1%;
+    align-items: center;
+}
+.container{
+    color: brown;
+    background-color: aquamarine;
+    height: 40vh;
+    width: 40vw;
+    border-radius: 10px;
+    font-size: xxx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lobster';
+}
+#Abhi{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+}
+
+/* ====================Thsis jsb==================== */
+.Ful{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.from input{
+    width: 20rem;
+    height: 2rem;
+    padding: 5px;
+    border-radius: 11px;
+    margin: 5px;
+}
+.Ful button{
+    width: 8rem;
+    height: 2rem;
+    background-color: #0a9ae7;
+    border-radius: 10px;
+    margin: 10px;
+    color: antiquewhite;
+    font-size: 1.2rem;
+    font-style: italic;
+    font-weight: 600;
+}
